@@ -10,7 +10,7 @@ const about = {
   role: 'Full Python Stack Developer',
   description:
     'A highly skilled and motivated full stack developer experiencein web development. Proficient in Django, Python, HTML,CSS, JavaScript, and various other technologies. Experiencein developing and maintaining web applications from start tofinish, including front-end and back-end development,database design, and deployment',
-  resume: 'https://example.com',
+  resume: 'https://www.canva.com/design/DAFVYCXpXKw/U1kbT-jLEdAaA4XHn2Ud6g/view?utm_content=DAFVYCXpXKw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
   social: {
     linkedin: 'https://www.linkedin.com/in/ashik-s-a176521a4/',
     github: 'https://github.com/ashik202',
